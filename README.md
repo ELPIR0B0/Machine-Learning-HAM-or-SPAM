@@ -7,7 +7,7 @@
 
 - `dataset_spam_ham.csv` → Dataset con 10 features y la etiqueta (`Etiqueta` = 0 HAM, 1 SPAM).
 - `modelo_spam.py` → Script en Python para cargar datos, entrenar el modelo y evaluar métricas.
-- `informe_modelo_spam_compacto.pdf` → Informe final con análisis completo.
+- `informe.pdf` → Informe final con análisis completo.
 - `README.md` → Documento actual de referencia.
 
 ---
